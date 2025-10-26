@@ -1,0 +1,9 @@
+           TAILE BOOKSTORE
+=====================================
+Cac loai sach: 
+ - Paulo Coelho - Nha gia kim: 67000
+ - George S. Clason - Nguoi giau co nhat thanh Babylon: 83000
+
+Tong hoa don: 150000.0
+
+Cam on quy khach da ung ho shop <3

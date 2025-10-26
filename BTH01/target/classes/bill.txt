@@ -1,0 +1,10 @@
+           TAILE BOOKSTORE
+=====================================
+Cac loai sach: 
+ - David J. Lieberman - Doc vi bat ki ai: 75500
+
+ - Dale Carnegie - Dac nhan tam: 68500
+
+Tong hoa don: 144000.0
+
+Cam on quy khach da ung ho shop <3
